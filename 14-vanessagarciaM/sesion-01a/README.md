@@ -1,5 +1,6 @@
 # sesion-01a
 Encargo-01 Reporte sobre película y artista investigada
+
 Sisters with Transistors: Laurie Spiegel 
 
 En el documental Sisters with Transistors se presenta la historia de las pioneras de la música electrónica en el siglo XX, quienes experimentaron con las máquinas y tecnologías, transformando la forma en la que produce y se escucha música hoy en día. Entre ellas destaca Laurie Spiegel, una compositora que trabajó con computadoras y la tecnología digital, para crear nuevas formas de composición musical, lo que tuvo un gran impacto en el desarrollo de la música electrónica.  
