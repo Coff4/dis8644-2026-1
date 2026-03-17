@@ -16,7 +16,7 @@ Parlante
 
 cables de conexión
 
-Resistencia eléctrica
+Resistencia eléctrica (se grafica como cuadrado en modo europero y como ondas en gringo pero es lo mismo)
 
 cables jumper o dupont
 
@@ -119,3 +119,4 @@ VCC **voltaje positivo** manera conceptual de decir voltaje de alimentacion (Cor
 
 
 GND Ground 0 volts Tierra **voltaje negativo**
+
