@@ -1,6 +1,6 @@
 # sesion-01b
 
-## Apuntes clase  
+## Apuntes-clase  
 
 Comenzamos la clase con una introducción para aprender el funcionamiento de GitHub y cómo utilizarlo correctamente. 
 
