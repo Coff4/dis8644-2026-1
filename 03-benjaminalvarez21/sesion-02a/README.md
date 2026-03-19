@@ -69,3 +69,13 @@ Cuero
 ![apuntes](./imagenes/apuntes_resistencia.jpg)
 
 ![apuntes](./imagenes/apuntes_circuito_paralelo.jpg)
+
+## Encargo 03 
+
+| Protoboard | D1 | D2 | D3 | D4 |
+| :--- | :---: | :---: | :---: | ---: |
+| R1 |  |  |  |  |
+| R2 |  |  |  |  |
+| R3 |  |  |  |  |
+| R4 |  |  |  |  |
+| R5 |  |  |  |  |
