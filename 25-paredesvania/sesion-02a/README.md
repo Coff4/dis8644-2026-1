@@ -92,3 +92,8 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 | R5                   | 1  |  1 |  1 | 1  |
 | R6                   |  1 |  1 |  1 |  1 |
 
+#### Encargo
+
+1. hacer los ejercicios anteriores y documentar los resultados.
+2. elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto de grabación, revisar presentaciones en vivo de esa época y contrastar con actuales. explicar qué escuchas en el disco, qué te llama la atención, describir en largo, no en corto.
+3. lo mismo que 2 pero con un disco de LCD Soundsystem.
