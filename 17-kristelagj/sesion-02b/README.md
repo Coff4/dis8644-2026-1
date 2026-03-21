@@ -51,6 +51,6 @@ Tocar la cabeza del LED, y cuando sientas una parte plana, significa que ese lad
 
 **chips:**  Es una pastilla de silicio que contiene miles de componentes diminutos en su interior. Sirve para realizar funciones complejas (como procesar datos o amplificar sonido) en un espacio muy reducido.
 
-**un broche de batería:**
+**broche de batería:**
 
 
