@@ -20,6 +20,14 @@ Ocupar tinkercad si no me funciona el sistema original
 
 - Primera parte: Aaron
 
+Quería separar esta parte en “reflexiones” pero estas clases no son solo pasar materia, si no cuestionarte y pensar más allá de cables. 
+
+Vengo de un taller en el cual se me enseño que no todo en la vida es diseño, de hecho mis profesores jamás hablaron directamente de la historia del diseño, si no que cultura general, música, películas, series, etc, además de reflexiones sobre la vida, lo que observamos y sucede día a día. En este taller me está sucediendo lo mismo y eso me hace sentir cómoda en un mundo que no entiendo nada, que estoy conociendo. 
+
+Primero que nada, me di cuenta de la conexión y preocupación que hay entre el equipo docente entre ellos y hacia los alumnos. Eso me hace sentir aún más cómoda. Además, se nos preguntó sobre cómo nos fue en el encargo a lo cual yo respondí que más o menos porque no había resuelto el ejercicio 3, lo intente, pero no me resultó, osea no encendió la luz. Eso ya sería un 5.0 en cualquier otro ramo de diseño, ya que no complete la tarea y además, no sé si lo hice bien los otros 2. 
+
+A lo que Aaron me responde (parafraseo): siempre dicen que dicen más o menos, les va bien y eso es lo que me respondió al escuchar mi respuesta. Te fue bien porque te equivocaste. Me cuesta pensar que equivocarse es parte del proceso. Es bien fácil decirlo, pero no el sentirlo. Te lo vienen diciendo desde primero pero si no traes el trabajo bien hecho, te califican con una nota baja. Si es que esto es importante y es parte de ¿por qué no es considerado en las pautas? Quiero intentar nuevamente este semestre poder pensar de esa forma, que si me equivoco está bien, si no sé algo también. Soy una persona curiosa, pero que aún a sus 22 años le cuestan muchas cosas. Me cuesta investigar, leer, mantener la concentración y un sin fin de cosas. 
+
 - Segunda parte: Misaa
 
 
