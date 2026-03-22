@@ -20,7 +20,7 @@ Luego de introducirnos los capacitores y el chip, nos enseñaron cómo utilizar 
 
 ![Circuito con chip NE555P](./imagenes/circuito-ne555.jpg)
 
-| Letra | Significado |
+| Símbolo | Significado |
 | --- | --- |
 | R(n) | Resistencia, el (n) es el número para poder identificarla, mientras que al lado de esto se indica de cuánto es la resistencia (1k, 10k en éste caso)|
 | C(n) | Capacitor/Condensador, el (n) es el número para poder identificarlo, mientras que al lado de esto se indica de cuánto es el capacitor/condensador (10mF, 100mF en este caso)|
@@ -54,3 +54,27 @@ Se nos indicó reemplazar el capacitor de 10μF por el de 100μF, y al momento d
 Luego probamos cambiando el de 100μF al de 1μF, y al momento de conectar el capacitor de 1μF no logré notar ningún cambio en el LED a simple vista, por lo que pensé que sólo se quedaba prendida sin parpadear, pero al momento de grabarlo me di cuenta de que en la cámara del celular si se notaba como la luz se prendía y se apagaba a gran velocidad.
 
 ![Capacitor 1μF](./imagenes/capacitor-1.gif)
+
+---
+
+### Potenciómetro
+
+Cuando ya probamos con todos los capacitores, se nos indicó reemplazar R2 por un potenciómetro (B100K), el cual se conectó mirando hacia nosotros y se tenía que topar con los cables en la patita de en medio y la última. Con el potenciómetro podíamos manejar con nuestra propia mano la frecuencia en la que parpadeaba la luz del LED, y el resultado fue el siguiente:
+
+![Circuito con potenciómetro](./imagenes/potenciometro.gif)
+
+### Fotorresistor
+
+Se nos entregaron unos fotorresistores (LDR), los cuales no tienen polaridad. La resistencia que produce este componente depende de la intensidad de la luz a la que se expone, por lo que usamos las linternas de los celulares para poder ver cómo reaccionaba. Aquí se ven los resultados con distintos capacitores:
+
+#### Fotorresistor y capacitor de 1μF
+
+![Fotorresistor con capacitor de 1μF](./imagenes/fotorresistor-1uf.gif)
+
+#### Fotorresistor y capacitor de 10μF
+
+![Fotorresistor con capacitor de 10μF](./imagenes/fotorresistor-10uf.gif)
+
+#### Fotorresistor y capacitor de 100μF
+
+![Fotorresistor con capacitor de 100μF](./imagenes/fotorresistor-100uf.gif)
