@@ -16,3 +16,9 @@ V = R × I
 + corriente (I): se mide en ampere (A)
 
 ![primera-hoja](./imagenes/primera-hoja.jpeg)
+
+nos entregaron capacitadores!!
+
+## ejercicio 555 (chip 555)
+
+![segunda-hoja](./imagenes/segunda-hoja.jpeg)
