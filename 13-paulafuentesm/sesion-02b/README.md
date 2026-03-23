@@ -23,6 +23,8 @@ Observación: la luz parpadea  más lento cada cierto timpo al ser conectada.
 ***Error previsto:***
 + No parpadea: el cable estaba conectado en la pata 4 en vez de la 3 ( solucionado en la imagen )
 
+------
+
 Variación 02:
 Cambiar la R entre 2 y 7 por potenciómetro
 ![variacion2](https://github.com/paulafuentesm/dis8644-2026-1/blob/67cbfdab011f28c5b4ef6d2d139946a2e5041276/13-paulafuentesm/sesion-02b/imagenes/ejercicio_clases/variacion02.png)
@@ -30,6 +32,8 @@ Cambiar la R entre 2 y 7 por potenciómetro
 ![variacion_r2](https://github.com/paulafuentesm/dis8644-2026-1/blob/67cbfdab011f28c5b4ef6d2d139946a2e5041276/13-paulafuentesm/sesion-02b/imagenes/ejercicio_clases/representacion_v2.jpg)
 
 Observación:La luz parpadeaba según el movimiento del modulador, haciéndolo más rápido o más lento dependiendo de de la diereccion en cual movieran la manilla.
+
+------
 
 Variación 03:
 Cambiar la R entre 2 y 7 por Fotorresistor
@@ -66,7 +70,7 @@ Colocar 2 capasitores de 100
 
 ![p2_capasitor](https://github.com/paulafuentesm/dis8644-2026-1/blob/be1b703ddef09b6c46408036b92e114d31cb359e/13-paulafuentesm/sesion-02b/imagenes/pruebas/p2_2capasitor.jpg)
 
-Objservacion: La luz va más lento, ya que suman los uf y eso hace que se demore en prender.
+Observación: La luz va más lento, ya que suman los uf y eso hace que se demore en prender.
 
 -----
 
@@ -76,7 +80,7 @@ Colocar 2 luces con un capasitor de 100uf
 
 ![p3_luces](https://github.com/paulafuentesm/dis8644-2026-1/blob/be1b703ddef09b6c46408036b92e114d31cb359e/13-paulafuentesm/sesion-02b/imagenes/pruebas/p3_2luces.jpg)
 
-Objservacion: Solo se prende la luz maás cercana la resiencia (azul) y la otra queda apagada.S e conectaron de diferentes formas pero solo prende 1 led de los 2.
+Observación: Solo se prende la luz maás cercana la resiencia (azul) y la otra queda apagada.S e conectaron de diferentes formas pero solo prende 1 led de los 2.
 
 -----
 
@@ -86,7 +90,7 @@ Colocar 2 luces pero se le agraga otra resistencia conectada a fila 25
 
 ![p3_luces](https://github.com/paulafuentesm/dis8644-2026-1/blob/45c217d04489412f1a2c4c110e2babcb68cfb520/13-paulafuentesm/sesion-02b/imagenes/pruebas/p4_2.2luces.jpg)
 
-Objservacion: Se prenden los 2 led y parpadean al mismo tiempo. 
+Observación: Se prenden los 2 led y parpadean al mismo tiempo. 
 
 -----
 
@@ -96,7 +100,7 @@ Colocar un capasitor de 1 uf
 
 ![p5_capasitor1uf](https://github.com/paulafuentesm/dis8644-2026-1/blob/5e52c87e40070b5e7a2c29ddbbe02cffa7de6658/13-paulafuentesm/sesion-02b/imagenes/pruebas/p5_capasitor1uf.jpg)
 
-Objservacion: La luz parpadea tan rápido, debido a que el capacitor es de 1 µF, que parece casi como si no parpadeara.
+Observación: La luz parpadea tan rápido, debido a que el capacitor es de 1 µF, que parece casi como si no parpadeara.
 
 -----
 
@@ -106,7 +110,7 @@ Colocar 2 capasitores de 1 uf
 
 ![p6_2capasitor1uf](https://github.com/paulafuentesm/dis8644-2026-1/blob/e9da03216ee3060f1bd2cd873df5741c26185607/13-paulafuentesm/sesion-02b/imagenes/pruebas/p6_2capasotores1uf.jpg)
 
-Objservacion: No se ve el parpadeo de la luz,infiero que parpadea pero a simple vista no se ve.
+Observación: No se ve el parpadeo de la luz,infiero que parpadea pero a simple vista no se ve.
 
 -----
 
@@ -116,7 +120,7 @@ Poner el Fotorresistor con un capasitor de 1 uf
 
 ![p6_2capasitor1uf](https://github.com/paulafuentesm/dis8644-2026-1/blob/7b7d90a6c35f38d9bd49e97c4529fb2417dfb815/13-paulafuentesm/sesion-02b/imagenes/pruebas/p7_fotorresistor1uf.jpg)
 
-Objservacion: La luz parpadea muy rapido y al tapar el Fotorresistor, sigue parpadeando rapido pero mas lento que al estar expuesto a la luz.
+Observación: La luz parpadea muy rapido y al tapar el Fotorresistor, sigue parpadeando rapido pero mas lento que al estar expuesto a la luz.
 
 -----
 
@@ -126,4 +130,4 @@ Poner el Fotorresistor con 2 capasitores de 1 uf
 
 ![p8_2capasitor2uf](https://github.com/paulafuentesm/dis8644-2026-1/blob/7b7d90a6c35f38d9bd49e97c4529fb2417dfb815/13-paulafuentesm/sesion-02b/imagenes/pruebas/p8_fotorresistor2uf.jpg)
 
-Objservacion: Para probar si la luz se apagaba, cambie la ressiencia de la prueba 06. La luz va tan rapido que no se ve parpadear, pero al tapar el fotorresistor, la luz va mas lento, por lo que parpadea mas lento. Logrando que efectivamente la luz siempre parpadea pero no siempre es perceptible a simple vista. 
+Observación: Para probar si la luz se apagaba, cambie la ressiencia de la prueba 06. La luz va tan rapido que no se ve parpadear, pero al tapar el fotorresistor, la luz va mas lento, por lo que parpadea mas lento. Logrando que efectivamente la luz siempre parpadea pero no siempre es perceptible a simple vista. 
