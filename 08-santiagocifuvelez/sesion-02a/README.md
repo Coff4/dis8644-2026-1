@@ -68,7 +68,7 @@ so, me falta el informe de análisis
 elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto de grabación, revisar presentaciones en vivo de esa época y contrastar con actuales. explicar qué escuchas en el disco, qué te llama la atención, describir en largo, no en corto.
 lo mismo que 2 pero con un disco de LCD Soundsystem.
 
-## Análisis “Kraftwerk” y “LCD Soundsystem”.
+## 5. Análisis “Kraftwerk” y “LCD Soundsystem”.
 
 #### Kraftwerk:
 “El hombre maquina” (pero no el álbum, literalmente eran “humanoides” o eso querían representar en sus inicios).
@@ -89,4 +89,5 @@ La canción salió en 2007, en un momento donde la música electrónica ya estab
 
 En cuanto a los shows en vivo, esta banda funciona completamente distinto a Kraftwerk, porque aquí no hay como esa rigidez ni frialdad, si no lo contrario; hay más energía, un desorden controlado, interacción con el público.
 
+Fin c:
 
