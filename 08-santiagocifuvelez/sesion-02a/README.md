@@ -45,6 +45,7 @@ Volviendo al ejemplo de la reserva de agua del profesor:
 
 #### Código de color de resistencias 
 
+![resistencias](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img4.jpeg)
 
 
 
