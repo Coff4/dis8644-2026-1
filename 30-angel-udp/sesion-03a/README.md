@@ -22,4 +22,5 @@ FOTORESISTOR se le dice también "LDR"
 
 Condensador mas alto en uF mas lento y mas bajo mas rápido la oscilación de las luces
 
-el tiempo que hay entre que se repite un ciclo es una honda (t) periodo de Onda, (S) frecuencia = 1/T  Formula de frecuencia F= 1/T = 1.44/(RA + 2 
+el tiempo que hay entre que se repite un ciclo es una honda (t) periodo de Onda, (S) frecuencia = 1/T  Formula de frecuencia F= 1/T = 1.44/(RA + 2 RB) * C
+
