@@ -22,7 +22,11 @@ video de como subir videos
 
 https://www.youtube.com/watch?v=ssMNCIUPOLI
 
-### encargo preguntas
+## encargo 02b
+
+### practica materia
+
+### preguntas
 
 1. ¿puedo concectar mas de dos baterias a la protoboard?
 
