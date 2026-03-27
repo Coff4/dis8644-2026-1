@@ -1,4 +1,4 @@
-# Sesión 02b: Martes 24 de marzo 
+# Sesión 02b: Viernes 20 de marzo 
 **Temas:** Profundización en el Chip NE555P, componentes de almacenamiento y análisis de frecuencia. 
 ## 1. Apuntes y Kit de Hardware:
 En esta sesión recibimos un set de componentes críticos para la gestión de un **lazo cerrado de energía**. 
