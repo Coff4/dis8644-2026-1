@@ -11,9 +11,13 @@ Entre una prueba pendiente que tengo, es usar el parlante. El problema es que el
 
 Actualización: pude hacerlo, lo único que debía cortar, era la parte del circuito del LED y ya!
 
-![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
+![Circuito con el parlante](./imagenes/parlante.jpg)
 
-![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
+![Restos del intento de circuito](./imagenes/restos.jpg)
+
+[![poquito sonido](https://img.youtube.com/vi/pHlJPhCMQgc/0.jpg)](https://youtube.com/shorts/pHlJPhCMQgc)
+
+[![Another One](https://img.youtube.com/vi/D-o_ZHhJf9c/0.jpg)](https://youtube.com/shorts/D-o_ZHhJf9c)
 
 --- 
 
@@ -34,12 +38,20 @@ Temporales/Momentáneos: Timbre
 
 Encargo del viernes
 
-![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
+![Codigo de colores sobre las resistencias](./imagenes/circuito-clase.jpg)
+Esta fue la primera versión pero luego fue cambiada
+
+![Codigo de colores sobre las resistencias](./imagenes/correcion.jpg)
+A la actual.
 
 
 Se nos dio a realizar un circuito un poco más complicado de lo normal, no era necesario que funcionara por lo que el intento es lo que importa.
 
 
-![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
-![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
-![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
+![Codigo de colores sobre las resistencias](./imagenes/proceso-uno.jpg)
+
+![Codigo de colores sobre las resistencias](./imagenes/completado.jpg)
+
+![Codigo de colores sobre las resistencias](./imagenes/otro-intento.jpg)
+
+[![Se intentó](https://img.youtube.com/vi/32jS4QzbwIs/0.jpg)](https://youtube.com/shorts/32jS4QzbwIs)
