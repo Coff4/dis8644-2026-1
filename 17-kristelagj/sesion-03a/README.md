@@ -55,9 +55,6 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 - Reconozco que 8 va directo a VCC y 1 va a GND. Esto ha ocurrido en los ejercicios que hemos hecho con 555.
 
-
-![prueba]
-
 - Cómo leer un esquemático
 
 **Diagrama esquemático:** Representación simplificada de los elementos en un circuito. No sólo muestra cómo están conectados los componentes, sino cómo influye la electricidad a través del circuito.
