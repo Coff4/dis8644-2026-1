@@ -97,3 +97,10 @@ Dentro de su historia, el COMDASUAR fue de lo más impresionante, es un instrume
 > <sup>**1**</sup> El **MIDI** (siglas de musical instrument digital interface, o en español ‘interfaz digital de instrumentos musicales’) o midi es un estándar tecnológico que describe un protocolo, una interfaz digital y conectores que permiten que varios instrumentos musicales electrónicos, computadoras y otros dispositivos relacionados se conecten y comuniquen entre sí.
 > > Def. de WIKIPEDIA
 
+<br>
+
+<br>
+
+---
+
+> Probe una manera más didactica de escribir mis apuntes, utilizando referencias y a ratos lenguaje más coloquial, espero que no haya ningún problema
