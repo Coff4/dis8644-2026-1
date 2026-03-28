@@ -2,5 +2,8 @@
 
 20 marzo del 2026
 
-Hello!
-give me som timeee, I´m remaking the 555 project we made in class
+![new fav number](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02b/imagenes/img2.jpg)
+
+![Nombre elementos](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02b/imagenes/img1.jpg)
+
+
