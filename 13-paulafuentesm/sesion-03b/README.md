@@ -2,7 +2,7 @@
 
 **Apuntes**
 
-***Menciones:***
+***Observar:***
 
 Make ( Revista )
 
