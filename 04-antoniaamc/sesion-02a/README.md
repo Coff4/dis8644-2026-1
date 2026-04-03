@@ -1,5 +1,7 @@
 # sesion-02a
 
+## Engargo 
+
 # Autobahn
 
 
@@ -32,9 +34,6 @@ Mi primer acercamiento a Kraftwerk fue hace más o menos 7 años, con la canció
 Al partir me pareció un poco intimidante por lo mucho que dura la primera canción, pensé que me iba a cansar de escuchar tantos sintetizadores, sabiendo también que su música se caracteriza por sonar bastante robótica. La escuché por primera vez antes de saber lo que era la Autobahn. Aún así y sin entender el contexto, durante los casi 23 minutos de la canción me sentí como en un viaje en una nave espacial que se desplaza entre dimensiones y túneles, también de repente un poco desconcertada… definitivamente fue un viaje.  La segunda vez que la escuché, ya sabiendo el contexto de la canción, me pareció brillante, y tremendamente innovadora. Después de escucharla por tercera, cuarta y quinta vez, cada vez me metí más en la experiencia de su sonido y cada vez se me hizo más entretenida. 
 
 Autobahn muestra una evolución de la música electrónica planteando nuevas perspectivas y experimentaciones con la evocación a la autopista alemana mediante el uso de sintetizadores para recrear el tráfico, vehículos y velocidad. El crítico Lynn Van Matre (del Chicago Tribune en 1975) describe el álbum como “simplemente una impresión de sonidos y percepción sensorial del camino”
-
-<https://www.newspapers.com/article/the-bradenton-herald-kraftwerk-autobahn/92684847/>
-
 
 **El álbum fue grabado principalmente con sintetizadores y caja de ritmo, con el uso ocasional de distintos instrumentos como flauta y guitarra.**
 
@@ -72,7 +71,7 @@ Moog Minimoog Model D
 
 ![autobahn](./imagenes/moog-minimoog-model-d-00-xl.jpg)
 
-fuente: Equip Board
+fuente: Equipboard
 <https://equipboard.com/items/moog-minimoog-model-d>
 
 ### ARP 2008 Odyssey Rev1
@@ -83,7 +82,8 @@ fuente: Equipboard
 ![autobahn](./imagenes/arp-2800-odyssey-rev1-xl.jpg)
 
 
-**Equipo de estudio utilizado por Kraftwerk en Autobahn**
+
+## Equipo de estudio utilizado por Kraftwerk en Autobahn
 
 ### Caja de ritmos
 
